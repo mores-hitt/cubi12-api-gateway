@@ -1,0 +1,6 @@
+@cubi12_api_gateway_HostAddress = http://localhost:5233
+
+GET {{cubi12_api_gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
